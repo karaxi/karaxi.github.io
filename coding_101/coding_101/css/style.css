@@ -1,0 +1,62 @@
+body {
+  background-color: #1e2074;
+  color: white;
+}
+
+h1 {
+  color: yellow;
+  font-weight: bold;
+  text-align: center;
+}
+h2 {
+  color: yellow;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+#List{
+  background-color:black;
+}
+
+.math{
+  color: ##131c08;
+  font-weight: bold;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+.math:hover{
+  background-color: #bf548b;
+}
+
+.math1{
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+  margin-right: 30px;
+  padding-bottom:  20px;
+}
+
+.math1:hover{
+  background-color: #1ed474;
+}
+
+
+
+p{
+  text-align:center;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  line-height: 2;
+  font-size:20px;
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
